@@ -64,32 +64,10 @@ Here’s how the components interact within the NaijaRoot ecosystem:
 ---
 
 ## 🗺 Architecture Diagram (Conceptual)
-+----------------------+
-      |     Frontend (React) |
-      |----------------------|
-      | Farmers | Buyers | Drivers |
-      +-----------|-----------+
-                  |
-                  v
-    +----------------------------+
-    |     Backend (Node + Express) |
-    +----------------------------+
-        | Authentication | APIs |
-                  |
-                  v
-    +----------------------------+
-    |     Firebase Services       |
-    |----------------------------|
-    | Firestore DB | Storage | Auth |
-    +----------------------------+
-                  |
-    +----------------------------+
-    | External Integrations       |
-    |----------------------------|
-    | Flutterwave | Google Maps |
-    +----------------------------+
-    
-    ---
+
+![NaijaRoot System Architecture Diagram](./assets/images/architecture.png)
+
+ ---
 
 ## 🔐 Security and Trust
 
