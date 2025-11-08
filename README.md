@@ -72,6 +72,12 @@ It’s designed for farmers who are often offline, skeptical of tech platforms, 
 
 By combining offline accessibility, local trust agents, and logistic accountability, NaijaRoot becomes more than a marketplace. It becomes a digital backbone for rural farmers*.
 
+
+## Business Model
+
+NaijaRoot operates on a commission-based and service-fee model. Farmers can list their produce for free, while the platform earns a small transaction fee when a sale is completed between farmers and buyers.
+To support logistics and trust, NaijaRoot partners with local transporters and warehousing services, charging a service fee for delivery and produce tracking. Over  time, the platform will introduce premium features such as bulk trading insights, financial support  and digital literacy tools for farmers in rural areas.
+
 ---
 
 ##  Technology Overview
