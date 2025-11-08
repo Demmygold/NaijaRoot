@@ -1,8 +1,8 @@
-# 🏗 NaijaRoot System Architecture
+#  NaijaRoot System Architecture
 
 ##  Overview
 *NaijaRoot* is a digital marketplace platform designed to connect *farmers, **buyers, and **logistic drivers* on a single, trusted system.  
-It enables farmers to list and sell produce directly, buyers to purchase fresh goods, and drivers to deliver produce efficiently — all while ensuring secure payments and transparency.
+It enables farmers to list and sell produce directly, buyers to purchase fresh goods, and drivers to deliver produce efficiently, all while ensuring secure payments and transparency.
 
 This document provides a detailed technical blueprint of how NaijaRoot is structured and how its components communicate to create a seamless experience.
 
