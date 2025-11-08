@@ -1,6 +1,6 @@
-# 🌱 NaijaRoot — Connecting Farmers, Buyers & Drivers
+#  NaijaRoot — Connecting Farmers, Buyers & Drivers
 
-## 📖 The Story
+##  The Story
 
 Many farmers in Nigeria work tirelessly to grow food but often lose profits because they can’t reach direct buyers. They end up selling through middlemen who take most of the gains, or worse, their produce spoils before it’s sold.
 
@@ -11,7 +11,7 @@ Though tools like this already exist, most rural farmers don’t know about them
 
 ---
 
-## 🎯 The Goal
+##  The Goal
 
 To empower farmers by giving them direct access to buyers and logistics, ensuring:
 - Fair prices for farm produce  
@@ -21,21 +21,21 @@ To empower farmers by giving them direct access to buyers and logistics, ensurin
 
 ---
 
-## 👥 Target Audience
+##  Target Audience
 - *Farmers:* List and sell their produce easily  
 - *Buyers:* Purchase fresh produce directly from farmers  
 - *Logistic Drivers:* Deliver goods safely from farms to buyers  
 
 ---
 
-## 💡 The Problem
+##  The Problem
 
 Farmers lose up to *30–40% of their produce* due to spoilage and middlemen exploitation (FAO, 2024).  
 They lack access to digital tools that can connect them directly to buyers and transport services.
 
 ---
 
-## 🧭 The Solution — NaijaRoot
+##  The Solution — NaijaRoot
 
 NaijaRoot provides an easy-to-use mobile platform that connects:
 - *Farmers* to *buyers*
@@ -46,18 +46,18 @@ All within one app — reducing waste, building trust, and simplifying trade.
 
 ---
 
-## ⚙ Key Features
+##  Key Features
 
-### 🧑‍🌾 Farmer Dashboard
+###  Farmer Dashboard
 A simple dashboard showing sales, earnings, and pending orders.
 
-### 🛒 Produce Listing
+###  Produce Listing
 Farmers can upload produce photos, set quantities, and prices for buyers to view.
 
-### 🚚 Logistics Management
+###  Logistics Management
 Drivers can view available deliveries, accept tasks, and track deliveries in real-time.
 
-### 💳 Secure Payment
+###  Secure Payment
 An escrow system ensures safe, transparent, and fast transactions between all parties.
 
 ### 🗣 Voice-Assisted Guidance
@@ -65,7 +65,7 @@ Voice support and trusted agents help farmers who aren’t familiar with smartph
 
 ---
 
-## 🌍 Why NaijaRoot Is Different
+##  Why NaijaRoot Is Different
 
 Unlike most agri-marketplace apps, *NaijaRoot* focuses on *rural inclusion*.  
 It’s designed for farmers who are often offline, skeptical of tech platforms, or left out of digital systems.
@@ -74,7 +74,7 @@ By combining *offline accessibility, **local trust agents, and **logistic accoun
 
 ---
 
-## 🔧 Technology Overview
+##  Technology Overview
 
 | Component | Technology |
 |------------|-------------|
@@ -86,7 +86,7 @@ By combining *offline accessibility, **local trust agents, and **logistic accoun
 
 ---
 
-## 🧩 The User Flow
+##  The User Flow
 1. User downloads the app.  
 2. Farmer, buyer, or driver signs up and is onboarded.  
 3. Farmers list produce → Buyers order → Drivers deliver.  
@@ -97,13 +97,16 @@ By combining *offline accessibility, **local trust agents, and **logistic accoun
 
 ---
 
-## 🧩 Prototype
+##  Prototype & Wireframing
 
 ![NaijaRoot Prototype](https://www.canva.com/design/DAG3eISbPZw/jGzSN-1vFN1jspsWtEuuRg/edit?utm_content=DAG3eISbPZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+
+![NaijaRoot Wireframe](https://miro.com/app/board/uXjVJ4TGJlA=/?share_link_id=31378569529n)
+
 ---
 
-## 🔒 Building Trust
+##  Building Trust
 - *Escrow Payment System:* Protects both buyers and farmers.  
 - *User Ratings:* Builds credibility over time.  
 - *Local Agents:* Help farmers register and verify users in rural areas.  

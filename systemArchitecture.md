@@ -1,6 +1,6 @@
 # 🏗 NaijaRoot System Architecture
 
-## 📘 Overview
+##  Overview
 *NaijaRoot* is a digital marketplace platform designed to connect *farmers, **buyers, and **logistic drivers* on a single, trusted system.  
 It enables farmers to list and sell produce directly, buyers to purchase fresh goods, and drivers to deliver produce efficiently — all while ensuring secure payments and transparency.
 
@@ -8,7 +8,7 @@ This document provides a detailed technical blueprint of how NaijaRoot is struct
 
 ---
 
-## ⚙ System Components
+##  System Components
 
 NaijaRoot’s architecture consists of three major layers:
 
@@ -20,7 +20,7 @@ NaijaRoot’s architecture consists of three major layers:
 
 ---
 
-## 🧩 Additional Integrations
+##  Additional Integrations
 
 | Functionality | Technology / API |
 |----------------|------------------|
@@ -32,7 +32,7 @@ NaijaRoot’s architecture consists of three major layers:
 
 ---
 
-## 🔄 Component Communication Flow
+##  Component Communication Flow
 
 Here’s how the components interact within the NaijaRoot ecosystem:
 
@@ -63,13 +63,13 @@ Here’s how the components interact within the NaijaRoot ecosystem:
 
 ---
 
-## 🗺 Architecture Diagram (Conceptual)
+##  Architecture Diagram (Conceptual)
 
 ![NaijaRoot System Architecture Diagram](./assets/images/DATA.png)
 
  ---
 
-## 🔐 Security and Trust
+##  Security and Trust
 
 - *Authentication:* All users authenticate via Firebase Auth (email/password or phone number).  
 - *Escrow System:* Payments are temporarily held until both buyer and farmer confirm satisfaction.  
