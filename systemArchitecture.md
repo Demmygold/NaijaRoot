@@ -65,7 +65,7 @@ Here’s how the components interact within the NaijaRoot ecosystem:
 
 ## 🗺 Architecture Diagram (Conceptual)
 
-![NaijaRoot System Architecture Diagram](./assets/images/architecture.png)
+![NaijaRoot System Architecture Diagram](./assets/images/DATA.png)
 
  ---
 
