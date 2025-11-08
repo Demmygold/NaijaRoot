@@ -60,7 +60,7 @@ Drivers can view available deliveries, accept tasks, and track deliveries in rea
 ###  Secure Payment
 An escrow system ensures safe, transparent, and fast transactions between all parties.
 
-### 🗣 Voice-Assisted Guidance
+###  Voice-Assisted Guidance
 Voice support and trusted agents help farmers who aren’t familiar with smartphones register and use the app easily.
 
 ---
